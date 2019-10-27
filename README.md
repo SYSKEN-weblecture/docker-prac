@@ -15,3 +15,7 @@ $ mkdir src
 $ touch src/hello.go
 $ make ac
 $ code ./src/hello.go
+$ make build
+$ make run
+$ make dls
+```
