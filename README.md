@@ -14,3 +14,4 @@ $ make ac
 $ mkdir src
 $ touch src/hello.go
 $ make ac
+$ code ./src/hello.go
