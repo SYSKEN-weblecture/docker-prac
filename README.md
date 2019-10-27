@@ -9,3 +9,8 @@ $ code ./wrist
 $ touch Dockerfile
 $ touch Makefile
 $ code Dockerfile
+$ code Makefile
+$ make ac
+$ mkdir src
+$ touch src/hello.go
+$ make ac
